@@ -1,0 +1,16 @@
+E:\Projetos\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.deps.json
+E:\Projetos\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.dll
+E:\Projetos\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\ref\TestDrive.dll
+E:\Projetos\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.pdb
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csprojAssemblyReference.cache
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\AgendamentoView.xaml.g.cs
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\DetalheView.xaml.g.cs
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfoInputs.cache
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfo.cs
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csproj.CoreCompileInputs.cache
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.dll
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\ref\TestDrive.dll
+E:\Projetos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.pdb
